@@ -1,13 +1,25 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'DollhouseC';
+  src: url('./Fonts/Kurale.ttf');
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+* {
+  font-family: 'DollhouseC';
+  box-sizing: border-box;
+  cursor: default;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: linear-gradient(90deg, rgb(255 255 255 / 55%) 4%, rgb(255 255 255 / 55%) 53%, rgb(255 255 255 / 55%) 100%), url(../src/Img/background_6.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#root {
+  height: 100%;
 }
