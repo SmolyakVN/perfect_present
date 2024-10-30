@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/perfect_present/static/css/main.4a21011d.css",
+    "main.js": "/perfect_present/static/js/main.47e5fed5.js",
+    "static/media/Kurale.ttf": "/perfect_present/static/media/Kurale.a7778d165dfe78b2929a.ttf",
+    "static/media/background_6.jpg": "/perfect_present/static/media/background_6.c970d781bff92b1f47c8.jpg",
+    "static/media/gift.svg": "/perfect_present/static/media/gift.9c12985ab5bb1f506e6a.svg",
+    "index.html": "/perfect_present/index.html",
+    "main.4a21011d.css.map": "/perfect_present/static/css/main.4a21011d.css.map",
+    "main.47e5fed5.js.map": "/perfect_present/static/js/main.47e5fed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a21011d.css",
+    "static/js/main.47e5fed5.js"
+  ]
+}
